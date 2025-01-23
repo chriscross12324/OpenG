@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OpenG (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "OpenG (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
